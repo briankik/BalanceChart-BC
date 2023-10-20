@@ -1,0 +1,30 @@
+{
+  "id": "a137f27b-41f8-41bf-85df-7aa4fd498b42",
+  "name": "Balance Chart",
+  "publisher": "Solutize Brian",
+  "version": "1.0.0.0",
+  "brief": "An app that demostrates control addins",
+  "description": "An app that demostrates control addins",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50120,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0",
+  "target": "Cloud"
+}
